@@ -691,6 +691,7 @@ body > section,
     font-size: 22px;
     line-height: 32px;
     margin-bottom: 25px;
+    text-align:center;	
 }
 
 .contact-address p {
